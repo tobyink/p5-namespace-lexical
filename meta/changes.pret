@@ -4,7 +4,7 @@
 	issued  2018-08-30;
 	label   "Initial release".
 
-`namespace-lexical 0.001 cpan:TOBYINK`
+`namespace-lexical 0.002 cpan:TOBYINK`
 	issued  2018-08-31;
 	changeset [
 		item "Bump required Perl to 5.12. Sorry."^^dcs:Bugfix;
