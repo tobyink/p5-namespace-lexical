@@ -1,4 +1,4 @@
-use 5.009003;
+use 5.012;
 use strict;
 use warnings;
 
@@ -76,7 +76,7 @@ B<< namespace::lexical >> works a lot like L<namespace::clean> but rather
 than removing functions from your namespace, it converts them into lexical
 subs (like C<< my sub foo { ... } >> on Perl 5.18 and above).
 
-namespace::lexical requires Perl 5.9.3 or above.
+namespace::lexical requires Perl 5.12 or above.
 
 =head2 API
 

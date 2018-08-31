@@ -3,7 +3,7 @@
 @prefix : <http://ontologi.es/doap-deps#>.
 
 `namespace-lexical`
-	:runtime-requirement    [ :on "perl 5.009003"^^:CpanId ];
+	:runtime-requirement    [ :on "perl 5.012"^^:CpanId ];
 	:runtime-requirement    [ :on "Package::Stash 0.18"^^:CpanId ];
 	:runtime-requirement    [ :on "Lexical::Sub 0.009"^^:CpanId ];
 	:test-requirement       [ :on "Test::More 0.96"^^:CpanId ];
